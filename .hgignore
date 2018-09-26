@@ -1,0 +1,6 @@
+syntax: glob
+StardateClock/.vs/
+*.csproj
+StardateClock/Library/
+*.sln
+StardateClock/obj/
